@@ -318,3 +318,9 @@ Instead of using many apps, this gives:
 Perfect for professional Free Fire production workflow.
 
 ---
+# 📌 New Update (26 April, 2026)
+<img width="1002" height="690" alt="image" src="https://github.com/user-attachments/assets/037d761c-83ad-498b-b664-7044cfdd0c2b" />
+<br>
+✅ Now you can download .png format Logos for use in vmix and others sheets
+<br>
+✅ For google spreedsheets update, we suffer some rate limit, now you guys can use excel sheet , its more faster then google sheet data writing
