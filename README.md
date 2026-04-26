@@ -216,6 +216,7 @@ Reads your Google Sheet Players & Teams data.
 Creates:
 
 PlayerNameOverwrite.json
+Example: [Google_Sheet_Link](https://docs.google.com/spreadsheets/d/1BjJkQjykyy0_r8TmTxjw0z4PSMQ3jdRtt0dPqKZAc6c/edit?usp=sharing)
 
 Useful for custom room tools & PC client integrations.
 
