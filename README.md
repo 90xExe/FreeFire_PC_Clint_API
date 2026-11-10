@@ -325,3 +325,19 @@ Perfect for professional Free Fire production workflow.
 ✅ Now you can download .png format Logos for use in vmix and others sheets
 <br>
 ✅ For google spreedsheets update, we suffer some rate limit, now you guys can use excel sheet , its more faster then google sheet data writing
+<br>
+# UI & Functions
+<img width="416" height="415" alt="image" src="https://github.com/user-attachments/assets/0e8b9b78-9a8f-4bf0-89a9-b86c13c13094" />
+<br> 
+<img width="610" height="730" alt="image" src="https://github.com/user-attachments/assets/e3fac417-7f45-439e-9905-46b11e8b24d6" />
+<br>
+<img width="803" height="1032" alt="image" src="https://github.com/user-attachments/assets/cbcdc005-b3ad-479a-b552-8a4850b4f8c1" />
+<br>
+<img width="950" height="983" alt="image" src="https://github.com/user-attachments/assets/95df28c5-9625-480e-b265-84e98c80f3d3" />
+<br>
+<img width="1095" height="786" alt="image" src="https://github.com/user-attachments/assets/27ab8219-c1d3-47ab-b111-a414b6eb9e55" />
+
+
+
+
+
